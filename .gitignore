@@ -1,0 +1,10 @@
+# Editor directories and files
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.swp
+*~
+
+# Ignore log files
+*.log

@@ -1,0 +1,15 @@
+.quote-box {
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  font-style: italic;
+
+  /* Внутренние отступы от текста до рамки */
+  padding: 3px;
+
+  /* Рамка не на всю страницу, то есть выравниваем и ограничиваем ширину */
+  max-width: 10%;
+  margin: 15px;
+
+  /* Округляем края */
+  border-radius: 10px;
+}
